@@ -1,3 +1,9 @@
+# Vivek Natarajan's First CS193 Homework 
+## Some of My Favorite Things About CS193 
+- my lecturers, Rohan and Elijah 
+- learning about computer software 
+- an avenue to more confident in my knowledge of the industry
+
 ## Welcome to GitHub Pages, Great Individuals!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
